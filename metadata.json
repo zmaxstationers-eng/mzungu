@@ -1,0 +1,6 @@
+{
+  "name": "Funza Mzungu",
+  "description": "Kiswahili learning and conversation platform connecting international learners with native Kiswahili teachers. Earn KSh 500 per verified teaching hour.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
